@@ -22,5 +22,6 @@
 ![alt text](img/3.PNG "Please double click on the icon.")
 
 2. You will see a tag named `@RISK` in Excel.
+![alt text](img/4.PNG "See the @RISK icon.")
 3. In this opened Excel, click on: `File -> Open -> Browse` and select `1InitialRiskLab.xls` for Lab1.
 4. Play with Lab1. :)
