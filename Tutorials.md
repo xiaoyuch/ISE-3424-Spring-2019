@@ -1,7 +1,10 @@
 # Tutorials for ISE 3424 2019 Spring
-> Dr. Xi Chen [Email](xchen.ise@vt.edu) 
-> Xiaoyu Chen [Email](xiaoyuch@vt.edu)
-> Guangrui Xie [Email](guangx92@vt.edu)
+> Instructor: Dr. Xi Chen [Contact: xchen.ise@vt.edu](mailto:xchen.ise@vt.edu) 
+
+> GTA: Guangrui Xie [Contact: guangx92@vt.edu](mailto:guangx92@vt.edu)
+
+> GTA: Xiaoyu Chen [Contact: xiaoyuch@vt.edu](mailto:xiaoyuch@vt.edu)
+
 
 ## Content
 1. [ How to download free trial of @Risk? ](#t1)
