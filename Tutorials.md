@@ -1,4 +1,8 @@
 # Tutorials for ISE 3424 2019 Spring
+> Dr. Xi Chen [Email](xchen.ise@vt.edu) 
+> Xiaoyu Chen [Email](xiaoyuch@vt.edu)
+> Guangrui Xie [Email](guangx92@vt.edu)
+
 ## Content
 1. [ How to download free trial of @Risk? ](#t1)
 2. [ How to begin with @Risk? ](#t2)
